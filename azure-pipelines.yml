@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  name: Quiz4
+  name: EinerQuiz4
 
 steps:
 - script: echo Hello, world!
