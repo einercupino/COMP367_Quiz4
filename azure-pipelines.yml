@@ -10,7 +10,7 @@ pool:
   name: EinerQuiz4
 
 variables:
-  solution: '**/*.sln'
+  solution: '$(System.DefaultWorkingDirectory)\Lab 4 MVC.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
